@@ -4,9 +4,7 @@ import Home from './components/Pages';
 
 function App() {
   return (
-    <Router>
       <Home />
-    </Router>
   );
 }
 

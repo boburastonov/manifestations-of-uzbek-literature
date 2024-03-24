@@ -18,7 +18,7 @@ import muin from '../Assets/muin.png'
 const person = [
   {
     id: 1,
-    image: '../Assets/avloniy.png',
+    image: avloniy,
     name: "Abdulla Avloniy",
     year: "1878-1934",
     books: 34,
@@ -26,7 +26,7 @@ const person = [
   },
   {
     id: 2,
-    image: {nusrat},
+    image: nusrat,
     name: "Nusrat Rahmat",
     year: "1878-1934",
     books: 34,
@@ -34,7 +34,7 @@ const person = [
   },
   {
     id: 3,
-    image: {rahmonberdi},
+    image: rahmonberdi,
     name: "Rahmonberdi Madazimov",
     year: "1878-1934",
     books: 34,
@@ -42,7 +42,7 @@ const person = [
   },
   {
     id: 4,
-    image: {hamza},
+    image: hamza,
     name: "Hamza Hakimzoda Niyoziy",
     year: "1878-1934",
     books: 34,
@@ -50,7 +50,7 @@ const person = [
   },
   {
     id: 5,
-    image: {cholpon},
+    image: cholpon,
     name: "Abdulhamid Cho'lpon",
     year: "1878-1934",
     books: 34,
@@ -58,7 +58,7 @@ const person = [
   },
   {
     id: 6,
-    image: {fitrat},
+    image: fitrat,
     name: "Abdurauf Fitrat",
     year: "1878-1934",
     books: 34,
@@ -66,7 +66,7 @@ const person = [
   },
   {
     id: 7,
-    image: {abdulmajid},
+    image: abdulmajid,
     name: "Abdulmajid Qodiriy",
     year: "1878-1934",
     books: 34,
@@ -74,7 +74,7 @@ const person = [
   },
   {
     id: 8,
-    image: {munavvarqori},
+    image: munavvarqori,
     name: "Munavvarqori Abdurashidxonov",
     year: "1878-1934",
     books: 34,
@@ -82,7 +82,7 @@ const person = [
   },
   {
     id: 9,
-    image: {qodiriy},
+    image: qodiriy,
     name: "Abdulla Qodiriy",
     year: "1878-1934",
     books: 34,
@@ -90,15 +90,15 @@ const person = [
   },
   {
     id: 10,
-    image: {behbudiy},
-    name: "Mahmuxo’ja Behbudiy",
+    image: behbudiy,
+    name: "Mahmudxo’ja Behbudiy",
     year: "1878-1934",
     books: 34,
     audioBooks: 13,
   },
   {
     id: 11,
-    image: {muin},
+    image: muin,
     name: "Hoji Muin",
     year: "1878-1934",
     books: 34,

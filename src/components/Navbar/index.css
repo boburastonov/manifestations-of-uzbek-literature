@@ -1,0 +1,7 @@
+.active-item::before{
+    content: '';
+    position: absolute;
+    width: 89px;
+    height: 2px;
+    background-color: #fff;
+}
